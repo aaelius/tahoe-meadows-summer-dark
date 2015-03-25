@@ -11,7 +11,7 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "readme": "# tahoe-meadows-summer-dark Atom theme\n\nThis is a theme for [Atom](http://atom.io) based on [Chris Kempson's Base 16 Eighties Theme](http://chriskempson.github.io/base16/#eighties).\n",
+  "readme": "# tahoe-meadows-summer-dark Atom theme\n\nThis is a theme for [Atom](http://atom.io)",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/alexFranka/tahoe-meadows-summer-dark/issues"
